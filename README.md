@@ -11,7 +11,9 @@
 
 ## Tech
 
--
+- React(TS) With Vite
+- Storybook
+- Jest
 
 <br>
 
